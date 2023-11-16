@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/CSE-4304-Data-Structure/Lab8",
-      "program": "c:/CSE-4304-Data-Structure/Lab8/build/Debug/outDebug",
+      "cwd": "c:/CSE-4304-Data-Structure/Lab10",
+      "program": "c:/CSE-4304-Data-Structure/Lab10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
